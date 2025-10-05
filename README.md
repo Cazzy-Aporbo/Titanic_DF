@@ -4,7 +4,7 @@
 ### Project Overview
 
 This project focuses on analyzing the Titanic dataset and performing feature engineering to prepare the data for machine learning models. The main goal is to understand the dataset, create relevant features, and handle missing values.
-
+This is a project completed during my Masters studies
 ### Dataset
 
 The dataset used is the famous Titanic dataset, which contains information about passengers on the Titanic, including whether they survived or not. The dataset includes the following features:
