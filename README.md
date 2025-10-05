@@ -1,6 +1,3 @@
-# Titanic_DF
-manipulation of titanic DF
-Here's a detailed README file for the Titanic dataset analysis and feature engineering project:
 
 ## Titanic Dataset Analysis and Feature Engineering
 
